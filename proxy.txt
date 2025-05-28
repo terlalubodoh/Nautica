@@ -3,3 +3,9 @@
 103.6.207.108,19224,ID,PT Pusat Media Indonesia
 
 113.21.242.141,2053,TH,True International Gateway Co Ltd
+
+172.93.165.228,443,MY,Gigabit Hosting Sdn Bhd
+103.186.117.6,10011,MY,GB Network Solutions Sdn. Bhd,
+
+123.58.199.241,443,VN,Ucloud Information Technology Hk
+103.98.149.96,58904,VN,Maxserver Company
