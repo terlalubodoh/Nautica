@@ -7,7 +7,7 @@
 203.194.112.119,8443,ID,First Cagayan Converge Data Center Inc.
 172.232.239.151,587,ID,Akamai Connected Cloud
 
-172.93.165.228.443,MY,Gigabit Hosting Sdn Bhd
+172.93.165.228,443,MY,Gigabit Hosting Sdn Bhd
 
 138.3.214.215,443,SG,Zenlayer
 139.180.154.158,443,SG,Vultr
@@ -30,7 +30,7 @@
 
 138.2.12.103,14453,JP,Cloudflare Warp
 167.179.67.96,443,JP,Vultr
-217.142.250.195,587,Oracle Cloud
+217.142.250.195,587,JP,Oracle Cloud
 
 130.162.130.105,443,KR,Oracle Cloud
 130.162.144.191,443,KR,Cloudflare Warp
