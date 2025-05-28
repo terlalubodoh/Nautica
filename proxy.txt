@@ -1,1 +1,5 @@
-103.126.226.23,10011,ID, PT Deneva
+43.218.77.16,443,ID,AMAZON-02
+103.126.226.36,10011,ID,PT Deneva
+103.6.207.108,19224,ID,PT Pusat Media Indonesia
+
+113.21.242.141,2053,TH,True International Gateway Co Ltd
