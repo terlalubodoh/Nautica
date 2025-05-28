@@ -1,33 +1,49 @@
 43.218.77.16,443,ID,AMAZON-02
+43.218.77.16,1443,ID,AMAZON-02
 103.126.226.36,10011,ID,PT Deneva
 103.6.207.108,19224,ID,PT Pusat Media Indonesia
 103.6.207.108,8080,ID,PT Pusat Media Indonesia
 203.194.112.119,2053,ID,First Cagayan Converge Data Center Inc.
 203.194.112.119,8443,ID,First Cagayan Converge Data Center Inc.
-43.218.77.16,443,ID,Amazon.com
-43.218.77.16,1443,ID,Amazon.com
 172.232.239.151,587,ID,Akamai Connected Cloud
 
-47.81.9.160,443,TH,Alibaba
-113.21.242.141,2053,TH,True International Gateway Co Ltd
+172.93.165.228.443,MY,Gigabit Hosting Sdn Bhd
 
-172.93.165.228,443,MY,Gigabit Hosting Sdn Bhd
-103.186.117.6,10011,MY,GB Network Solutions Sdn. Bhd,
+138.3.214.215,443,SG,Zenlayer
+139.180.154.158,443,SG,Vultr
+172.104.40.56,587,SG,Akamai Connected Cloud
 
-123.58.199.241,443,VN,Ucloud Information Technology Hk
-103.98.149.96,58904,VN,Maxserver Company
-
-122.2.198.74,443,PH,PLDT
 61.245.11.69,2053,PH,R&R Managed Telecom Services
 
-103.29.32.103,443,US,Aryaka Networks
-104.168.59.6,18914,US,HostPapa
+103.15.90.134,49678,VN,Vietnam Posts And Telecommunications Group
+
+43.229.149.251,8443,TH,Siamdata Communication Co.
 
 103.115.253.253,443,BD,Star Internet Service
-103.86.109.38,443,BD,Mahfujul Haque ta Expert Online
 
-149.28.21.106,443,JP,Vultr
-103.232.213.117,8080,JP,Akile
+188.253.6.53,25884,TW,Akari Networks
+83.147.13.199,443,TW,Akari Networks
 
-129.154.194.191,443,KR,Oracle Cloud
+154.12.176.201,587,HK,DMIT
+185.143.221.34,443,HK,iNet
+202.144.192.76,443,HK,IPTELECOM Global
+
+138.2.12.103,14453,JP,Cloudflare Warp
+167.179.67.96,443,JP,Vultr
+217.142.250.195,587,Oracle Cloud
+
+130.162.130.105,443,KR,Oracle Cloud
 130.162.144.191,443,KR,Cloudflare Warp
+
+77.240.38.114,443,KZ,PS Internet Company
+45.80.208.126,8081,KZ,G-Core Labs SA
+
+85.235.151.34,443,IT,Aruba Networks
+
+104.234.50.128,443,US,OVHcloud
+104.168.102.163,443,US,Cloudflare Warp
+104.167.197.236,443,US,Newserverlife
+108.61.78.49,443,US,Vultr
+
+104.128.190.209,443,UK,UK Dedicated Servers
+104.128.190.65,443,UK,UK Dedicated Servers
