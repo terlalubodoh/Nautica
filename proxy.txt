@@ -13,3 +13,6 @@
 
 122.2.198.74,443,PH,PLDT
 61.245.11.69,2053,PH,R&R Managed Telecom Services
+
+103.29.32.103,443,US,Aryaka Networks
+104.168.59.6,18914,US,HostPapa
